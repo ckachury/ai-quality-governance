@@ -68,7 +68,7 @@ Usar estas referencias no certifica un producto ni reemplaza la asesoría legal.
 
 ## Notas
 
-Este repositorio es genérico: se quitaron nombres de productos, detalles internos e información de clientes. No es asesoría legal. Contenido compartido bajo [CC BY 4.0](LICENSE).
+Este repositorio es genérico: se quitaron nombres de productos, detalles internos e información de clientes. No es asesoría legal. Contenido compartido bajo [CC BY-NC-ND 4.0](LICENSE).
 
 ---
 
