@@ -66,7 +66,7 @@ Using these references does not certify a product and does not replace legal adv
 
 ## Notes
 
-This repository is generic: product names, internal details and client information have been removed. It is not legal advice. Content is shared under [CC BY-NC-ND 4.0](LICENSE).
+This repository is generic: product names, internal details and client information have been removed. It is not legal advice. Content is shared under [CC BY-NC-ND 4.0](LICENSE). For commercial use or licensing, [contact me](https://www.linkedin.com/in/carla-achury-617b7536/).
 
 ---
 
